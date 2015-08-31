@@ -8,3 +8,8 @@ The website of FOSS
 2) Remove unwanted code and styles from css and js files
 
 will be updated soon
+
+
+##Workshop Resources
+* [FOSS 01](https://github.com/GeekHaven/FOSS/tree/master/Workshop01)
+
