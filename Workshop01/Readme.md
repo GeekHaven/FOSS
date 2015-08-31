@@ -25,3 +25,7 @@ Short web tutorial on how to dual boot -> http://www.everydaylinuxuser.com/2014/
 
 
 Basic Linux commands ->  http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+
+<i>For enthusiasts</i>
+Actual linux kernerl -> https://github.com/torvalds/linux
